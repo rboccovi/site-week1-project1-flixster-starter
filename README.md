@@ -67,7 +67,7 @@ During my peer's demo, I noticed they implemented a close button which allowed w
 
 ### Open-source libraries used
 
-n/a
+n/a 
 
 - Add any links to open-so       urce libraries used in your project.
 
