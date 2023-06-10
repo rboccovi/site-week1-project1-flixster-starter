@@ -2,10 +2,9 @@
 
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: Roberta Boccovi
 
-Estimated time spent: **#** hours spent in total
-
+Estimated time spent: 19 hours
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Application Features
